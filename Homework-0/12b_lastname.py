@@ -1,6 +1,7 @@
 '''
 This is an example of a solution to a homework problem in python
-at the top of the script will be the author and any contributors
+the title of the script should contain be formatted 'ProblemNumber_StudentName.filetype'
+contributors will be listed at the top of the file
 '''
 
 
