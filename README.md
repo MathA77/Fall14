@@ -13,7 +13,7 @@ You can edit files using the pencil symbol.  If you click on file such as README
 ##Pull Requests
 After an addition or edit has been made, propose the change (usually at the bottom of the input field) and create a pull request. This pull request sends a request to the administrator of the repository to O.K. the changes or resolve conflicting changes before officially updating the repository.  
 
-##Additional notes
-1. The repository can be downloaded as a zip file if anyone wants access to the files locally.
+###Additional notes
+1. The entire repository can be downloaded as a zip file, and individual files can be downloaded by right clicking and choosing save as.
 2. Adding a title and notes to your changes/pull request will allow the change to be understood and implemented more quickly
 3. Creating a pull request opens up a dialogue with the repository controller, who may want to ask you about certain changes before adding them to the repository
